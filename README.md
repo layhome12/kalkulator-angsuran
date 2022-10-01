@@ -1,24 +1,13 @@
-# simple-math
+# Kalkulator Angsuran
+Aplikasi untuk menghitung angsuran bulanan. 
+Untuk menjalankan Demo Aplikasi klik link [disini](https://kalkulatorangsuran.layhomedev.my.id).
 
-## Project setup
+### Instalasi
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run Server
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
