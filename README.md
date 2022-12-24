@@ -1,6 +1,6 @@
 # Kalkulator Angsuran
 Aplikasi untuk menghitung angsuran bulanan. 
-Untuk menjalankan Demo Aplikasi klik link [disini](https://kalkulatorangsuran.layhomedev.my.id).
+Untuk menjalankan Demo Aplikasi klik link [disini](https://kalkulatorangsuran.layhomedev.site).
 
 ### Instalasi
 ```
